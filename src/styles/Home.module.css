@@ -12,20 +12,13 @@
   align-items: center;
 }
 
-.footer {
-  display: flex;
-  flex: 1;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
-  justify-content: center;
-  align-items: center;
-}
-
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
+.button_connect_wallet {
+  padding: 10px 20px;
+  font-size: 24px;
+  background-color: #0070f3;
+  border: transparent;
+  color: white;
+  font-weight: 700;
 }
 
 .title a {
